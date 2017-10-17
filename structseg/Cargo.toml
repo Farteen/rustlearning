@@ -1,0 +1,6 @@
+[package]
+name = "structseg"
+version = "0.1.0"
+authors = ["farteen <xujavacn@gmail.com>"]
+
+[dependencies]

@@ -1,0 +1,1 @@
+/Users/glasses/Desktop/Move/Rustlang/communicator/target/debug/libcommunicator.rlib: /Users/glasses/Desktop/Move/Rustlang/communicator/src/network/server.rs /Users/glasses/Desktop/Move/Rustlang/communicator/src/lib.rs /Users/glasses/Desktop/Move/Rustlang/communicator/src/client.rs /Users/glasses/Desktop/Move/Rustlang/communicator/src/network/mod.rs
