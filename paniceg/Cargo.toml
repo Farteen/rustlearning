@@ -1,0 +1,10 @@
+[package]
+name = "paniceg"
+version = "0.1.0"
+authors = ["farteen <xujavacn@gmail.com>"]
+
+[dependencies]
+
+
+[profile.release]
+panic = 'abort'
